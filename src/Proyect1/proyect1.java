@@ -10,7 +10,7 @@ public class proyect1 {
     Crear un método main que sirve de punto de entrada principal
     a lo que seria una aplicacion de java, el metodo contiene una
     serie de modificadores:
-    *public -> publico, puede sergit init ejecutado desde fuera de la clase
+    *public -> publico, puede ser ejecutado desde fuera de la clase
     *static -> pertenece a la clase proyect1
     *void -> el tipo de retorno (no devuelve nada, solamente ejecutara un código)
     *main -> nombre que indicara que este es el metodo principal
@@ -29,6 +29,7 @@ public class proyect1 {
     public static void main(String [] args){
 
         System.out.println("HOLA MUNDO");
+        System.out.println("UNA SEGUNDA MODIFICACION");
     }
 
 }
